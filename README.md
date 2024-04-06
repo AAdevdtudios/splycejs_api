@@ -2,6 +2,8 @@
 
 ![Splyce Logo](/img_samples/branding.png)
 
+With splyce js api you can access our api functionalities easily
+
 ## Highlights
 
 - Create Account Information
